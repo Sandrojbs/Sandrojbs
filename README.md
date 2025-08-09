@@ -34,8 +34,8 @@ Esse foi meu primeiro projeto utilizando React, focado em aplicar conceitos fund
 - Componentização da UI;  
 - Uso de Props;  
 - Renderização Condicional.
--
--  [Portfólio Pessoal: www.linkedin.com/in/sandro-de-jesus-8ab84b305
+
+- [Portfólio Pessoal: www.linkedin.com/in/sandro-de-jesus-8ab84b305
 
 <!--
 **Sandrojbs/Sandrojbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
